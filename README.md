@@ -13,6 +13,7 @@ Servicio RestFull, para consulta de los campeonatos mundiales de futbol. Realiza
 ### Código
 
 ![Captura1](https://user-images.githubusercontent.com/7141537/69489064-2d116800-0e41-11ea-85f4-f6415bfaee82.PNG)
+
 ![Captura2](https://user-images.githubusercontent.com/7141537/69489065-2d116800-0e41-11ea-9f7a-9297baf1f5f4.PNG)
 
 ### Salida:
