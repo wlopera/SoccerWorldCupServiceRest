@@ -3,6 +3,9 @@ Servicio Rest - Campeonatos Mundial Futbol
 
 Servicio RestFull, para consulta de los campeonatos mundiales de futbol. Realizado con Java 8 - Spring Boot.
 
+### Para probar - usar proyecto react
+https://github.com/wlopera/soccer_world_cup_react-
+
 ### Librerías y herramientas:
 
 * Lombok
