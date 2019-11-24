@@ -6,6 +6,10 @@ Servicio RestFull, para consulta de los campeonatos mundiales de futbol. Realiza
 ### Para probar - usar proyecto react
 https://github.com/wlopera/soccer_world_cup_react-
 
+### NOTAS:
+uso de la anotación: Resoolver tema de CrossOrigin entre puertos.
+* @CrossOrigin(origins = "*")
+
 ### Librerías y herramientas:
 
 * Lombok
